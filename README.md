@@ -29,6 +29,13 @@ A modern, fully responsive personal portfolio website built to showcase my **ski
 - **Bootstrap 5**
 - **Bootstrap Icons**
 - **Git & GitHub**
+- 
+##📬 Connect With Me
+
+- **LinkedIn: https://www.linkedin.com/in/mansoon-mohanty-00a06b254
+- **GitHub: https://github.com/MansoonM
+- **Portfolio: https://mansoon-mohanty-portfolio-2026.netlify.app/#home
+- **Email: mansoonmohanty111@gmail.com
 
 ## 📂 Project Structure
 
@@ -44,8 +51,3 @@ Portfolio/
 │   └── MANSOON-MOHANTY-RESUME.pdf
 │
 └── README.md
-📬 Connect With Me
-LinkedIn: https://www.linkedin.com/in/mansoon-mohanty-00a06b254
-GitHub: https://github.com/MansoonM
-Portfolio: https://mansoon-mohanty-portfolio-2026.netlify.app/#home
-Email: mansoonmohanty111@gmail.com
